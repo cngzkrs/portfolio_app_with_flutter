@@ -4,7 +4,7 @@ Flutter portfolio page app
 
 Single Page                |  lists are goes on in ListView 
 :-------------------------:|:-------------------------:
-![Alt text](https://github.com/cngzkrs/portfolio_mi_card_flutter/blob/master/screen_1.JPG "Optional Title")  |  ![Alt text](https://github.com/cngzkrs/portfolio_mi_card_flutter/blob/master/screen_2.JPG "Optional Title")
+![Alt text](https://github.com/cngzkrs/portfolio_app_with_flutter.git/blob/master/screen_1.JPG "Optional Title")  |  ![Alt text](https://github.com/cngzkrs/portfolio_app_with_flutter.git/blob/master/screen_2.JPG "Optional Title")
 
 
  
